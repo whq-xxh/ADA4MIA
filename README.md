@@ -44,4 +44,12 @@
 | STDR | [Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals](https://arxiv.org/abs/2308.08544) | TMI 2024 | [[code]](https://github.com/whq-xxh/SFADA-GTV-Seg)  |
 | CUP | [Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset](https://arxiv.org/abs/2406.13645) | MICCAI 2024 | [[code]](https://github.com/whq-xxh/SFADA-UWF-SLO)  |
 
+## 3. Traditional Domain Adaptation
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| AdaptSeg | [Learning to adapt structured output space for semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html) | CVPR 2018 | [[code]](https://github.com/wasidennis/AdaptSegNet)  |
+| AdvEnt | [Advent: Adversarial entropy minimization for domain adaptation in semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html) | CVPR 2019 | [[code]](https://github.com/valeoai/ADVENT) |
+| UncertainDA | [Uncertainty reduction for model adaptation in semantic segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com) | CVPR 2021 | [[code]](https://github.com/idiap/model-uncertainty-for-adaptation)  |
+| Tent | [Tent: Fully test-time adaptation by entropy minimization](https://arxiv.org/abs/2006.10726) | ICLR 2021 | [[code]](https://github.com/DequanWang/tent)  |
 
+## 4. Active Learning
