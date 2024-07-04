@@ -43,6 +43,7 @@
 | --- | --- | --- | --- |
 | STDR | [Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals](https://arxiv.org/abs/2308.08544) | TMI 2024 | [[code]](https://github.com/whq-xxh/SFADA-GTV-Seg)  |
 | CUP | [Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset](https://arxiv.org/abs/2406.13645) | MICCAI 2024 | [[code]](https://github.com/whq-xxh/SFADA-UWF-SLO)  |
+| UGTST | [An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation](https://arxiv.org/abs/2407.02893) | MICCAI 2024 | [[code]](https://github.com/HiLab-git/UGTST)  |
 
 ## 3. Traditional Domain Adaptation
 | Short name | Paper | Source | Code Link  |
