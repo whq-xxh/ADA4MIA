@@ -51,5 +51,16 @@
 | AdvEnt | [Advent: Adversarial entropy minimization for domain adaptation in semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html) | CVPR 2019 | [[code]](https://github.com/valeoai/ADVENT) |
 | UncertainDA | [Uncertainty reduction for model adaptation in semantic segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com) | CVPR 2021 | [[code]](https://github.com/idiap/model-uncertainty-for-adaptation)  |
 | Tent | [Tent: Fully test-time adaptation by entropy minimization](https://arxiv.org/abs/2006.10726) | ICLR 2021 | [[code]](https://github.com/DequanWang/tent)  |
+| DPL | [Source-free domain adaptive fundus image segmentation with denoised pseudo-labeling](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_22) | MICCAI 2021 | [[code]](https://github.com/cchen-cc/SFDA-DPL)  |
+| FSM | [Source free domain adaptation for medical image segmentation with fourier style mining](https://www.sciencedirect.com/science/article/abs/pii/S1361841522001049) | MIA 2022 | [[code]](https://github.com/CityU-AIM-Group/SFDA-FSM)  |
+| AdaMI | [Source-free domain adaptation for image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002456) | MIA 2022 | [[code]](https://github.com/mathilde-b/SFDA)  |
+| CBMT | [Source-free domain adaptive fundus image segmentation with class-balanced mean teacher](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_65) | MICCAI 2023 | [[code]](https://github.com/lloongx/SFDA-CBMT)  |
+| CPR | [Context-Aware Pseudo-label Refinement for Source-Free Domain Adaptive Fundus Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_58) | MICCAI 2023 | [[code]](https://github.com/xmed-lab/CPR)  |
+|  | []() |  | [[code]]()  |
+|  | []() |  | [[code]]()  |
 
 ## 4. Active Learning
+| Short name | Paper | Source | Code Link  |
+| --- | --- | --- | --- |
+|  | []() |  | [[code]]()  |
+|  | []() |  | [[code]]()  |
