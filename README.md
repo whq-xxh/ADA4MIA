@@ -33,19 +33,19 @@
 
 ## 1. Datasets
 
-| Short name | Paper | Source | Code/Project Link  |
+| Short name | Paper | Source | Data Link  |
 | --- | --- | --- | --- |
 | STDR | [Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals](https://arxiv.org/abs/2308.08544) | TMI 2024 | [[dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg) |
 
 ## 2. Source-Free-Active-Domain-Adaptation
 
-| Short name | Paper | Source | Code/Project Link  |
+| Short name | Paper | Source | Code Link  |
 | --- | --- | --- | --- |
 | STDR | [Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals](https://arxiv.org/abs/2308.08544) | TMI 2024 | [[code]](https://github.com/whq-xxh/SFADA-GTV-Seg)  |
 | CUP | [Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset](https://arxiv.org/abs/2406.13645) | MICCAI 2024 | [[code]](https://github.com/whq-xxh/SFADA-UWF-SLO)  |
 
 ## 3. Traditional Domain Adaptation
-| Short name | Paper | Source | Code/Project Link  |
+| Short name | Paper | Source | Code Link  |
 | --- | --- | --- | --- |
 | AdaptSeg | [Learning to adapt structured output space for semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html) | CVPR 2018 | [[code]](https://github.com/wasidennis/AdaptSegNet)  |
 | AdvEnt | [Advent: Adversarial entropy minimization for domain adaptation in semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html) | CVPR 2019 | [[code]](https://github.com/valeoai/ADVENT) |
