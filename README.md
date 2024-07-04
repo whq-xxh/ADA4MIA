@@ -26,11 +26,10 @@
 
 - [ADA4MIA: Active Domain Adaptation for Medical Image Analysis]
   - [1. Datasets](#1-datasets)
-  - [2. Source Free Active Domain Adaptation](#2-SFADA)
-  - [3. Traditional Referring Image Segmentation](#3-traditional-referring-image-segmentation)
-  - [4. Interactive Referring Image Segmentation](#4-interactive-referring-image-segmentation)
-  - [5. Referring Video Object Segmentation](#5-referring-video-object-segmentation)
-  - [6. Referring 3D Instance Segmentation](#6-referring-3d-instance-segmentation)
+  - [2. Source Free Active Domain Adaptation](#2-source-free-active-domain-adaptation)
+  - [3. Traditional Domain Adaptation](#3-traditional-domain-adaptation)
+  - [4. Active Learning](#4-active-learning)
+
 
 ## 1. Datasets
 
@@ -38,7 +37,7 @@
 | --- | --- | --- | --- |
 | STDR | [Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals](https://arxiv.org/abs/2308.08544) | TMI 2024 | [[dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg) |
 
-## 2. SFADA
+## 2. Source-Free-Active-Domain-Adaptation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
