@@ -1,2 +1,2 @@
-# Awesome Source-Free Active Domain Adaptation for Medical Image Analysis
+# Awesome Active Domain Adaptation for Medical Image Analysis
 
