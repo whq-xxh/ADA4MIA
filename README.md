@@ -64,7 +64,7 @@
 | AADA | [Active adversarial domain adaptation](https://openaccess.thecvf.com/content_WACV_2020/html/Su_Active_Adversarial_Domain_Adaptation_WACV_2020_paper.html) | WACV 2020 | [[code]]()  |
 | MADA | [Multi-anchor active domain adaptation for semantic segmentation](https://openaccess.thecvf.com/content/ICCV2021/html/Ning_Multi-Anchor_Active_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.html) | ICCV 2021 | [[code]]()  |
 | MHPL | [Mhpl: Minimum happy points learning for active source free domain adaptation](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.html) | CVPR 2023 | [[code]](https://github.com/munanning/MADA)  |
-| CLAUS) | [Hybrid active learning via deep clustering for video action detection](https://openaccess.thecvf.com/content/CVPR2023/html/Rana_Hybrid_Active_Learning_via_Deep_Clustering_for_Video_Action_Detection_CVPR_2023_paper.html) | CVPR 2023 | [[code]](https://github.com/aayushjr/HybridCLAUS)  |
+| CLAUS | [Hybrid active learning via deep clustering for video action detection](https://openaccess.thecvf.com/content/CVPR2023/html/Rana_Hybrid_Active_Learning_via_Deep_Clustering_for_Video_Action_Detection_CVPR_2023_paper.html) | CVPR 2023 | [[code]](https://github.com/aayushjr/HybridCLAUS)  |
 | ActiveFT | [Active finetuning: Exploiting annotation budget in the pretraining-finetuning paradigm](https://github.com/yichen928/ActiveFT) | CVPR 2023 | [[code]](https://github.com/yichen928/ActiveFT)  |
 | BAL | [Bal: Balancing diversity and novelty for active learning](https://ieeexplore.ieee.org/abstract/document/10372131) | TPAMI 2023 | [[code]](https://github.com/dvlab-research/BAL)  |
 |  | []() |  | [[code]]()  |
