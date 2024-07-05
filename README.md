@@ -57,11 +57,14 @@
 | AdaMI | [Source-free domain adaptation for image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002456) | MIA 2022 | [[code]](https://github.com/mathilde-b/SFDA)  |
 | CBMT | [Source-free domain adaptive fundus image segmentation with class-balanced mean teacher](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_65) | MICCAI 2023 | [[code]](https://github.com/lloongx/SFDA-CBMT)  |
 | CPR | [Context-Aware Pseudo-label Refinement for Source-Free Domain Adaptive Fundus Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_58) | MICCAI 2023 | [[code]](https://github.com/xmed-lab/CPR)  |
-|  | []() |  | [[code]]()  |
-|  | []() |  | [[code]]()  |
 
 ## 4. Active Learning
 | Short name | Paper | Source | Code Link  |
 | --- | --- | --- | --- |
+| AADA | [Active adversarial domain adaptation](https://openaccess.thecvf.com/content_WACV_2020/html/Su_Active_Adversarial_Domain_Adaptation_WACV_2020_paper.html) | WACV 2020 | [[code]]()  |
+| MHPL | [Mhpl: Minimum happy points learning for active source free domain adaptation](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.html) | CVPR 2023 | [[code]]()  |
+| CLAUS) | [Hybrid active learning via deep clustering for video action detection](https://openaccess.thecvf.com/content/CVPR2023/html/Rana_Hybrid_Active_Learning_via_Deep_Clustering_for_Video_Action_Detection_CVPR_2023_paper.html) | CVPR 2023 | [[code]](https://github.com/aayushjr/HybridCLAUS)  |
+| ActiveFT | [Active finetuning: Exploiting annotation budget in the pretraining-finetuning paradigm](https://github.com/yichen928/ActiveFT) |  | [[code]](https://github.com/yichen928/ActiveFT)  |
+|  | []() |  | [[code]]()  |
 |  | []() |  | [[code]]()  |
 |  | []() |  | [[code]]()  |
