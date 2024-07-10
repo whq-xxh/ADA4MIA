@@ -4,7 +4,7 @@
 
 * This repository collects various **state-of-the-art methods**, **open-source code**, and related **datasets** for the community. **If you are interested, you can push your implementations or ideas to this repo or contact me (hongqiuwang16@gmail.com) at any time**.
 
-* This project was originally developed for our previous works. Now and future, we are still working on extending it to be more user-friendly and support more approaches to further boost and ease this topic research. **If you use this codebase in your research, please cite the following works**:
+* This project was originally developed for our previous works. Now and future, we are still working on extending it to be more user-friendly and support more approaches to further boost and ease this topic research. **The parts of the code for training the source model, generating pseudo-labels, and fine-tuning the target model are provided in our [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project. If you use this codebase in your research, please cite the following works**:
 ```
      @article{wang2024dual,
       title={Dual-reference source-free active domain adaptation for nasopharyngeal carcinoma tumor segmentation across multiple hospitals},
