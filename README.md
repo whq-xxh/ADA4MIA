@@ -67,4 +67,4 @@
 | CLAUS | [Hybrid active learning via deep clustering for video action detection](https://openaccess.thecvf.com/content/CVPR2023/html/Rana_Hybrid_Active_Learning_via_Deep_Clustering_for_Video_Action_Detection_CVPR_2023_paper.html) | CVPR 2023 | [[code]](https://github.com/aayushjr/HybridCLAUS)  |
 | ActiveFT | [Active finetuning: Exploiting annotation budget in the pretraining-finetuning paradigm](https://github.com/yichen928/ActiveFT) | CVPR 2023 | [[code]](https://github.com/yichen928/ActiveFT)  |
 | BAL | [Bal: Balancing diversity and novelty for active learning](https://ieeexplore.ieee.org/abstract/document/10372131) | TPAMI 2023 | [[code]](https://github.com/dvlab-research/BAL)  |
-|  | []() |  | [[code]]()  |
+| ALFREDO | [ALFREDO: Active Learning with FeatuRe disEntangelement and DOmain adaptation for medical image classification](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001865) | MIA 2024 | [[None]]()  |
