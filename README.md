@@ -2,7 +2,7 @@
 
 * **ADA4MIA** is a benchmark repo dedicated to enhancing **Domain Adaptation** and **Active Learning** in medical image analysis. Our goal is to foster robust model development across varied medical datasets, facilitating straightforward evaluation and comparison of different methods.
 
-* This repository collects various **state-of-the-art methods**, **open-source code**, and related **datasets** for the community. **If you are interested, you can push your implementations or ideas to this repo or contact me (hongqiuwang16@gmail.com) at any time**.
+* This repository collects various **state-of-the-art methods**, **open-source code**, and related **datasets** for the community. **If you are interested, you can push your implementations or ideas to this repo or contact me (📮：hongqiuwang16@gmail.com)(Wechat:_whqqq7_) at any time**.
 
 * This project was originally developed for our previous works. Now and future, we are still working on extending it to be more user-friendly and support more approaches to further boost and ease this topic research. **The parts of the code for training the source model, generating pseudo-labels, and fine-tuning the target model are provided in our [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project. If you use this codebase in your research, please cite the following works**:
 ```
