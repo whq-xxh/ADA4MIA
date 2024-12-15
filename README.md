@@ -14,12 +14,14 @@
       publisher={IEEE}
     }
   
-    @article{wang2024advancing,
-      title={Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset},
-      author={Wang, Hongqiu and Luo, Xiangde and Chen, Wu and Tang, Qingqing and Xin, Mei and Wang, Qiong and Zhu, Lei},
-      journal={arXiv preprint arXiv:2406.13645},
-      year={2024}
-    }
+     @inproceedings{wang2024advancing,
+       title={Advancing uwf-slo vessel segmentation with source-free active domain adaptation and a novel multi-center dataset},
+       author={Wang, Hongqiu and Luo, Xiangde and Chen, Wu and Tang, Qingqing and Xin, Mei and Wang, Qiong and Zhu, Lei},
+       booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+       pages={75--85},
+       year={2024},
+       organization={Springer}
+     }
 ```
 
 **Outline**
